@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    background-color: f2f2f2;
+    text-align: center;
+}
+.bio {
+    display:flex;
+    position: absolute;
+    bottom: 91%;
+    right: 20%;
+    color: #000000;
+}
+.bio:hover {
+    cursor: pointer;
+
+}
+.bio:active {
+    color: green;
+}
+
+.project {
+    display: flex;
+    position: absolute;
+    bottom: 91%;
+    right: 10%;
+    color: #000000;
+}
+.contact {
+    display: flex;
+    position: absolute;
+    bottom: 91%;
+    right: 10px;
+    color: #000000;
+}
+
+h1 {
+    display: flex;
+    position: absolute;
+    bottom: 80%;
+    right: 1249px;
+    color: #000000;
+}
+
+p {
+    display: flex;
+    position: absolute;
+    bottom: 75%;
+    right: 1418px;
+    color: gray;
+}
